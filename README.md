@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ronlicaj data analyst- economist.
+- 👋 Hi, I’m @ronlicaj data analyst/data scientist/ economist.
 - 👀 I’m interested in numbers, technology, data analytics, machine learning.
 - 🌱 I’m currently learning big data analytics and machine learning.
 - 💞️ I’m looking to collaborate on machine learning projects.
