@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ronlicaj data analyst/data scientist/ economist.
+- 👋 Hi, I’m Ronaldo Licaj data analyst/data scientist/ machine learning enthusiast and economics garduate.
 - 👀 I’m interested in numbers, technology, data analytics, machine learning.
 - 🌱 I’m currently learning big data analytics and machine learning.
 - 💞️ I’m looking to collaborate on machine learning projects.
