@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ronaldo Licaj data analyst/data scientist/ machine learning enthusiast and economics garduate.
-- 👀 I’m interested in numbers, technology, data analytics, machine learning.
-- 🌱 I’m currently learning big data analytics and machine learning.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 👋 Hi, I’m Ronaldo Licaj, an economic graduate, currently working as an IT Administrator
+- 👀 I’m interested in numbers, technology, data analytics, machine learning, and programming.
+- 🌱 I’m currently learning Automation with Ansible and Rundeck.
+- 💞️ I’m looking to collaborate and connect with like minded people.
 - 📫 How to reach me: www.linkedin.com/in/ronaldo-licaj.
 
 <!---
