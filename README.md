@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ronaldo Licaj, an economic graduate, currently working as an IT Administrator
+- 👋 Hi, I’m Ronaldo Licaj, an economics graduate, currently working as an IT Administrator
 - 👀 I’m interested in numbers, technology, data analytics, machine learning, and programming.
 - 🌱 I’m currently learning Automation with Ansible and Rundeck.
 - 💞️ I’m looking to collaborate and connect with like minded people.
